@@ -8,4 +8,4 @@ python Ali.py
 
 THIS TOOL IS FREE SO ENJOY 🔥
 
-#9.0
+#7.2
